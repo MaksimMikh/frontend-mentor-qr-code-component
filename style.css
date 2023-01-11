@@ -1,0 +1,22 @@
+#p{
+    font-size: 15px;
+    color:gray;
+    font-weight:bold;
+    
+}
+#h4{
+    font-weight:bold;
+   
+}
+.card{
+    padding: 15px;
+    
+    margin-top: 9rem;
+    margin-bottom: 9rem;
+}
+#img{
+    border-radius: 10px;
+}
+#card{
+    border-radius: 25px;
+}
